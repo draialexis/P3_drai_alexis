@@ -16,11 +16,14 @@ _Pour faciliter votre passage au jury, déposez sur la plateforme, dans un dossi
 Votre validateur jouera le rôle de la sponsor du projet, Céline. La présentation devra être structurée comme suit : 
 
 Présentation et explication des livrables (15 minutes) :
+
 * à quoi sert le produit ;
 * pour qui est le produit ;
 * comment vous mesurez la réussite du produit.
 * Faites une courte visite guidée de vos livrables.
+
 Discussion (10 min) : le validateur vous posera des questions sur votre méthodologie et vos livrables, notamment :
+
 * Quelle est la logique de développement de votre liste précise de fonctionnalités ? (Soyez prêt à citer des exemples précis dans les documents fournis).
 * Quelles ont été les contraintes ou les difficultés rencontrées ? Comment y avez-vous répondu ?
 * Qu'auriez-vous changé ou fait différemment ?
